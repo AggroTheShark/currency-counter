@@ -1,6 +1,6 @@
 # Currency Counter
 
-A small Java library that allows you to count all kind of currency.
+A small Java library that allows you to count all kind of currencies.
 
 A project I started out of boredom, because why not.
 
